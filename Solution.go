@@ -1,9 +1,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func arraysIntersection(first []int, second []int, third []int) []int {
 	const numberOfInputArrays = 3
